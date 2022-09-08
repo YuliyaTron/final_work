@@ -1,0 +1,15 @@
+C:\Users\TRON\Desktop\final_work\final_Task\bin\Debug\net6.0\final_Task.exe
+C:\Users\TRON\Desktop\final_work\final_Task\bin\Debug\net6.0\final_Task.deps.json
+C:\Users\TRON\Desktop\final_work\final_Task\bin\Debug\net6.0\final_Task.runtimeconfig.json
+C:\Users\TRON\Desktop\final_work\final_Task\bin\Debug\net6.0\final_Task.dll
+C:\Users\TRON\Desktop\final_work\final_Task\bin\Debug\net6.0\final_Task.pdb
+C:\Users\TRON\Desktop\final_work\final_Task\obj\Debug\net6.0\final_Task.csproj.AssemblyReference.cache
+C:\Users\TRON\Desktop\final_work\final_Task\obj\Debug\net6.0\final_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRON\Desktop\final_work\final_Task\obj\Debug\net6.0\final_Task.AssemblyInfoInputs.cache
+C:\Users\TRON\Desktop\final_work\final_Task\obj\Debug\net6.0\final_Task.AssemblyInfo.cs
+C:\Users\TRON\Desktop\final_work\final_Task\obj\Debug\net6.0\final_Task.csproj.CoreCompileInputs.cache
+C:\Users\TRON\Desktop\final_work\final_Task\obj\Debug\net6.0\final_Task.dll
+C:\Users\TRON\Desktop\final_work\final_Task\obj\Debug\net6.0\refint\final_Task.dll
+C:\Users\TRON\Desktop\final_work\final_Task\obj\Debug\net6.0\final_Task.pdb
+C:\Users\TRON\Desktop\final_work\final_Task\obj\Debug\net6.0\final_Task.genruntimeconfig.cache
+C:\Users\TRON\Desktop\final_work\final_Task\obj\Debug\net6.0\ref\final_Task.dll
